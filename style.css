@@ -1,0 +1,28 @@
+
+.spotify-charts {
+  padding: 12px 12px 0;
+  font-family: "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: hsl(0, 0%, 95%);
+  background-color: hsl(0, 0%, 10%);
+}
+
+.title {
+  margin: 12px 6px 24px;
+  padding: 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #282828;
+    background-color: lightgreen;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
